@@ -32,6 +32,12 @@
     background-color: green;
 }
 
+.purple {
+    top: calc(15.4rem);
+    background-color: purple;
+    box-shadow: 0px 0px 40px 20px rgb(245, 239, 154);
+}
+
 .light {
     position: absolute;
     left: calc(50% - 2rem);
